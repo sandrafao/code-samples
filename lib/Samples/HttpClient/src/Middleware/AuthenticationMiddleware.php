@@ -1,9 +1,6 @@
 <?php
 /**
  * File contains Class AuthorizationMiddleware.php
- *
- * @since  19.08.16
- * @author Alexandra Fedotova <alexandra.fedotova@veeam.com>
  */
 
 namespace Samples\HttpClient\Middleware;

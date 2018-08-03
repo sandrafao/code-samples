@@ -1,9 +1,6 @@
 <?php
 /**
  * File contains Class JWTMiddleware.php
- *
- * @since  18.08.16
- * @author Alexandra Fedotova <alexandra.fedotova@veeam.com>
  */
 
 namespace Samples\HttpClient\Authentication;
